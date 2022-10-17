@@ -1,0 +1,324 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.7f1 (24e8595d6d43) revision 2418777'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19043) 64bit CoreSingleLanguage' Language: 'en' Physical Memory: 15823 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker123
+-projectPath
+E:/TestPlataform/Mecánica 01
+-logFile
+Logs/AssetImportWorker123.log
+-srvPort
+54252
+Successfully changed project path to: E:/TestPlataform/Mecánica 01
+E:/TestPlataform/Mecánica 01
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+mdb reader table full -> cleaning up stale readers. Current readers:
+    pid     thread     txnid
+      4472 222c -
+      4472 310 -
+      4472 2a98 -
+      4472 9ac -
+      3300 22d4 -
+     11320 1518 -
+        32 10a4 -
+      8056 bec -
+      5640 2484 -
+      8368 2a50 -
+      7040 2694 -
+     12940 1ec4 -
+     12356 3140 -
+     10496 2ad4 -
+      7008 341c -
+      1240 21b4 -
+      6904 2d6c -
+     11100 3018 -
+     10264 211c -
+      4428 1be4 -
+      9364 11dc -
+      4352 2b54 -
+     11368 1670 -
+      4212 25e4 -
+     11736 34ac -
+      9180 21a0 -
+      3884 36d4 -
+     12504 3550 -
+     13432 36c4 1958
+      1540 302c -
+      5364 12a0 1960
+      1668 10f8 1961
+      1844 2548 -
+      4788 508 -
+     13960 c44 -
+      6468 1c1c -
+     11012 1fec -
+      5840 2cd8 -
+     12992 2754 -
+      2824 2b68 -
+      8588 2a54 -
+     10948 27fc -
+      8872 2050 -
+      2416 1018 -
+       400 1898 -
+      8236 219c -
+      5156 1098 -
+      3936 1024 -
+     10796 2414 -
+      8176 a80 -
+      8480 27d4 -
+      2024 1bd0 -
+     13152 1428 -
+      2576 137c -
+      4504 520 -
+      2904 e7c -
+      2812 2458 -
+      4040 1368 -
+      4108 9c4 -
+      1700 273c -
+     13460 9f4 -
+     11552 2ae8 -
+      5844 188c -
+     14484 3898 2000
+     14744 2590 -
+     15288 3ba4 -
+      8948 fb8 -
+     14972 3bd0 -
+      5204 33d0 -
+      8540 1d34 -
+      9620 30c8 -
+     14912 206c -
+     14500 3088 -
+     12064 10ac -
+     15152 23f4 -
+      9456 2820 -
+      5868 12b0 -
+      8516 2d10 -
+      9800 af4 -
+     15344 233c -
+      7984 13fc -
+      3404 dd4 -
+      4372 3a68 -
+      5756 3964 -
+      9608 226c -
+     13156 2034 -
+     14576 1c58 -
+      4016 3904 -
+      3568 3b34 -
+     14696 2c90 -
+      9684 184 -
+     14552 3344 -
+     14792 39d8 -
+      6492 678 2030
+     14756 2d70 -
+     11220 1af4 -
+      2608 a98 -
+      9964 21d4 -
+     11592 928 -
+      9560 3bac -
+     15264 3030 -
+      8164 5f0 -
+      3576 3810 -
+      9752 23e0 -
+     15260 2ca8 -
+      8304 3830 -
+     11068 34e4 -
+     14512 1a50 -
+     13996 1790 -
+     10020 346c -
+     10392 2cf4 -
+      1892 382c -
+     14868 98c -
+     15356 395c -
+      4172 3098 -
+     15328 694 -
+      3112 3604 -
+      4200 25f0 -
+      8724 2df8 -
+      6056 1edc -
+      9196 2b1c -
+      3896 3734 -
+     11644 2c80 -
+      4984 ffc 2060
+      5532 370c 2061
+      3116 1084 -
+Cleaned out 121 stale readers
+mdb reader table full -> cleaning up stale readers. Current readers:
+    pid     thread     txnid
+      4472 222c -
+      4472 310 -
+      4472 1b74 -
+      4472 229c -
+      3300 22d4 -
+     11320 1518 -
+        32 10a4 -
+      8056 bec -
+      5640 2484 -
+      8368 2a50 -
+      7040 2694 -
+     12940 1ec4 -
+     12356 3140 -
+     10496 2ad4 -
+      7008 341c -
+      1240 21b4 -
+      6904 2d6c -
+     11100 3018 -
+     10264 211c -
+      4428 1be4 -
+      9364 11dc -
+      4352 2b54 -
+     11368 1670 -
+      4212 25e4 -
+     11736 34ac -
+      9180 21a0 -
+      3884 36d4 -
+     12504 3550 9995
+     13432 36c4 -
+      1540 302c -
+      5364 12a0 9998
+      1668 10f8 9999
+      1844 2548 -
+      4788 508 -
+     13960 c44 -
+      6468 1c1c -
+     11012 1fec -
+      5840 2cd8 -
+     12992 2754 -
+      2824 2b68 -
+      8588 2a54 -
+     10948 27fc -
+      8872 2050 -
+      2416 1018 -
+       400 1898 -
+      8236 219c -
+      5156 1098 -
+      3936 1024 -
+     10796 2414 -
+      8176 a80 -
+      8480 27d4 -
+      2024 1bd0 -
+     13152 1428 -
+      2576 137c -
+      4504 520 -
+      2904 e7c -
+      2812 2458 -
+      4040 1368 -
+      4108 9c4 -
+      1700 273c -
+     13460 9f4 -
+     11552 2ae8 -
+      5844 188c -
+     14484 3898 10035
+     14744 2590 -
+     15288 3ba4 -
+      8948 fb8 -
+     14972 3bd0 -
+      5204 33d0 -
+      8540 1d34 -
+      9620 30c8 -
+     14912 206c -
+     14500 3088 -
+     12064 10ac -
+     15152 23f4 -
+      9456 2820 -
+      5868 12b0 -
+      8516 2d10 -
+      9800 af4 -
+     15344 233c -
+      7984 13fc -
+      3404 dd4 -
+      4372 3a68 -
+      5756 3964 -
+      9608 226c -
+     13156 2034 -
+     14576 1c58 -
+      4016 3904 -
+      3568 3b34 -
+     14696 2c90 -
+      9684 184 -
+     14552 3344 -
+     14792 39d8 -
+      6492 678 -
+     14756 2d70 -
+     11220 1af4 -
+      2608 a98 -
+      9964 21d4 -
+     11592 928 -
+      9560 3bac -
+     15264 3030 -
+      8164 5f0 -
+      3576 3810 -
+      9752 23e0 -
+     15260 2ca8 -
+      8304 3830 -
+     11068 34e4 -
+     14512 1a50 -
+     13996 1790 -
+     10020 346c -
+     10392 2cf4 -
+      1892 382c -
+     14868 98c -
+     15356 395c -
+      4172 3098 -
+     15328 694 -
+      3112 3604 -
+      4200 25f0 -
+      8724 2df8 -
+      6056 1edc -
+      9196 2b1c -
+      3896 3734 -
+     11644 2c80 -
+      4984 ffc -
+      5532 370c 10096
+      3116 1084 -
+Cleaned out 121 stale readers
+Refreshing native plugins compatible for Editor in 7728.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.7f1 (24e8595d6d43)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/TestPlataform/Mecánica 01/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Microsoft Basic Render Driver (ID=0x8c)
+    Vendor:   Microsoft
+    VRAM:     7911 MB
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56564
+Begin MonoManager ReloadAssembly
